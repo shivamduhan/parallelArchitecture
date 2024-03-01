@@ -9,6 +9,6 @@ Sources:
 - https://course.ece.cmu.edu/~ece447/s15/doku.php?id=exams
 
 I would like to extend my sincerest gratitude to the creators of these materials for satisfying my intellectual curiousity:
-Professors Kayvon Fatahalian and Kunle Olukotun from Stanford, 
-Professors Joel Emer, Daniel Sanchez and Mengjia Yan from MIT, 
-Professors Unur Mutlu and James Hoe from CMU.
+- Professors Kayvon Fatahalian and Kunle Olukotun from Stanford, 
+- Professors Joel Emer, Daniel Sanchez and Mengjia Yan from MIT, 
+- Professors Unur Mutlu and James Hoe from CMU.
